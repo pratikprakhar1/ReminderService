@@ -4,7 +4,7 @@ const sender = require('../config/emailConfig');
 
 /**
  * 10:00 am 
- * Every 5 minutes
+ * Every 2 minutes
  * We will check are their any pending emails which was expected to be sent 
  * by now  and is pending
  */
